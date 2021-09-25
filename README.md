@@ -1,1 +1,3 @@
-# discord-bot-template
+# discord-bot-template (outdated)
+
+New update coming soon
